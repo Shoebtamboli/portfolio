@@ -1,1 +1,4 @@
 # portfolio
+
+React
+Tailwind CSS
